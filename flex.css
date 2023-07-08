@@ -1,0 +1,30 @@
+h2 {
+    font-family: monospace;
+    color:darkslategrey;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px;
+    background-color:antiquewhite;
+    text-align: center;
+}
+.box1, .box2, .box3 {
+    margin:10px 10px;
+}
+#line1 {
+    background-color: chartreuse;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#line2 {
+    background-color:coral; 
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#line3 {
+    background-color:burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
